@@ -1,2 +1,4 @@
-# Aulas-de-Front-END
-Arquivos das minhas atividades de Front END na UNICSUL
+# Aulas da UNICSUL (minha)
+HTML, CSS, JS
+C 
+SQL
