@@ -1,0 +1,21 @@
+# Totally serious developer inventory
+
+[weapons]
+primary = "gcc -Wall -Wextra"
+secondary = "printf debugging"
+legendary = "it compiled on the first try (mythic, unconfirmed)"
+
+[armor]
+head = "headphones of deep focus"
+chest = "hoodie of eternal comfort"
+hands = "keyboard with sticky spacebar"
+
+[potions]
+coffee = 2
+energy_drink = 0
+water = 1
+
+[key_items]
+"flake.nix" = "opens portals to reproducible dev shells"
+"README.md" = "ancient map, slightly outdated"
+".git" = "time machine (handle with care)"

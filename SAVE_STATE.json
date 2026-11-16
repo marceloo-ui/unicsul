@@ -1,0 +1,17 @@
+{
+  "slot": 3,
+  "character": "etternalize",
+  "class": "Code Wizard Apprentice",
+  "location": "/home/etternalize/Documents/unicsul",
+  "hp": 73,
+  "mana": 42,
+  "gold": 12,
+  "inventory": [
+    "half-working C pointer",
+    "mysterious HTML <div>",
+    "one (1) flake.nix",
+    "cold coffee"
+  ],
+  "last_save": "2026-11-16T17:20:00Z",
+  "checkpoint": "before the next assignment boss fight"
+}
