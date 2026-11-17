@@ -1,6 +1,6 @@
 # flake.nix
 {
-  description = "Minhas atividades de ADS da UNICSUL (Front-END)";
+  description = "Minhas atividades de ADS da UNICSUL";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
